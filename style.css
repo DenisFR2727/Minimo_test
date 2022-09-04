@@ -1137,7 +1137,7 @@ footer{
     width: 279px;
     height: 965px;
     left: 860px;
-    top: 770px; 
+    top: 770px; /* and 10px */
     background-color: #ffffff;
 }
 .sidebar img{
