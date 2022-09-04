@@ -1,0 +1,70 @@
+@font-face{
+    font-family: Regular; /* Название шрифта. */
+    src: url("./FONTS/Playfair_Display/PlayfairDisplay-Regular.ttf") format("ttf"),
+    url("./FONTS/Playfair_Display/PlayfairDisplay-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: Italic; 
+    src: url("./FONTS/Playfair_Display/PlayfairDisplay-Italic.ttf") format("ttf"),
+    url("./FONTS/Playfair_Display/PlayfairDisplay-Italic.ttf") format("truetype");
+}
+@font-face{
+    font-family: BoldItalic; 
+    src: url("./FONTS/Playfair_Display/PlayfairDisplay-BoldItalic.ttf") format("ttf"),
+    url(".//FONTS/Playfair_Display/PlayfairDisplay-BoldItalic.ttf") format("truetype");
+}
+@font-face{
+    font-family: Bold; 
+    src: url("./FONTS/Playfair_Display/PlayfairDisplay-Bold.ttf") format("ttf"),
+    url("./FONTS/Playfair_Display/PlayfairDisplay-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: BlackItalic; 
+    src: url("./FONTS/Playfair_Display/PlayfairDisplay-BlackItalic.ttf") format("ttf"),
+    url("./FONTS/Playfair_Display/PlayfairDisplay-BlackItalic.ttf") format("truetype");
+}
+@font-face{
+    font-family: Black; 
+    src: url("./FONTS/Playfair_Display/PlayfairDisplay-Black.ttf") format("ttf"),
+    url("./FONTS/Playfair_Display/PlayfairDisplay-Black.ttf") format("truetype");
+}
+@font-face{
+    font-family: Ubuntu-Bold; 
+    src: url("./FONTS/Ubuntu/Ubuntu-Bold.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: Ubuntu-BoldItalic; 
+    src: url("./FONTS/Ubuntu/Ubuntu-BoldItalic.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-BoldItalic.ttf") format("truetype");
+}
+@font-face{
+    font-family: Ubuntu-Italic; 
+    src: url("./FONTS/Ubuntu/Ubuntu-Italic.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-Italic.ttf") format("truetype");
+}
+@font-face{
+    font-family: Ubuntu-Light; 
+    src: url("./FONTS/Ubuntu/Ubuntu-Light.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-Light.ttf") format("truetype");
+}
+@font-face{
+    font-family: Ubuntu-LightItalic; 
+    src: url("./FONTS/Ubuntu/Ubuntu-LightItalic.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-LightItalic.ttf") format("truetype");
+}
+@font-face{
+    font-family: Ubuntu-Medium; 
+    src: url("./FONTS//Ubuntu/Ubuntu-Medium.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-Medium.ttf") format("truetype");
+}
+@font-face{
+    font-family: Ubuntu-MediumItalic; 
+    src: url("./FONTS/Ubuntu/Ubuntu-MediumItalic.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-MediumItalic.ttf") format("truetype");
+}
+@font-face{
+    font-family:Ubuntu-Regular; 
+    src: url("./FONTS/Ubuntu/Ubuntu-Regular.ttf") format("ttf"),
+    url("./FONTS/Ubuntu/Ubuntu-Regular.ttf") format("truetype");
+}
